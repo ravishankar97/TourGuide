@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="name">image</string>
+    <string name="napierbridge">Napier Bridge is one the Chennai’s oldest bridge constructed in 1869 which connects Fort St. George and Marina Beach over Coovum River in Beach road. Like Egmore station, this bridge is also commonly used to represent Chennai in Media.</string>
+    <string name="marina_beach">The second largest beach in the world Marina Beach extends up to 13km. Marina Beach is on of the major tourist attractions in Chennai. Marina Beach is a place on earth with heavenly beauty. Governor Mountstuart Elphinstone Grant Duff further enhanced the natural beauty of the Marina Beach in early 1880\'s. The view on the beach at sunset and sunrise is absolutely delightful. In the evenings the place becomes lively with the children playing at the golden sand and hawkers selling snacks, balloons, toys etc.</string>
+    <string name="santhome">Santhome Basilica church is a Roman Catholic Church constructed in the year 1523 by Portuguese in Santhome. This church was constructed by destroying the original Kapaleeshwarar Temple at Mylapore and later it was reconstructed by British during 1896.</string>
+    <string name="george">The Tamil Nadu State Legislative assembly is currently operated from this monument. Fort St.George was built in year 1644 by British East India Company to secure spice trade from South India. It is located in Beach Road on the shores of Marina Beach, Chennai.</string>
+    <string name="memorial">This memorial was constructed in the year 1988 in the memory of Former Chief Minister M.G.Ramachandran who was also a popular cinema hero. He died in the year 1987 and he was cremated at this place.</string>
+    <string name="todo">TODO</string>
+    <string name="name_value">name</string>
+    <string name="events">Popular Events</string>
+    <string name="historical_places">Historical Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="robotics">Robotics is an interdisciplinary branch of engineering and science that includes mechanical engineering, electronics engineering, computer science, and others. Robotics deals with the design, construction, operation, and use of robots, as well as computer systems for their control, sensory feedback, and information processing. TOP ENGINEERS workshops are designed to provide an insight view in the field of engineering.</string>
+    <string name="kerala_standup">This is a special edition standup show where we\'ve decided to stand up for our Kerala family in need. We\'ve been wanting to do a fundraiser - but also do one that is purposeful - where we set a target of a certain amount and hustle to fill that. So we\'re setting ourselves a target of 1 lakh. Some of our favorite and best in the business comics have onboard to support to cause, on a no-fee basis, just like us.</string>
+    <string name="quadcopter">Compared to manned aircraft, UAVs were originally used for missions too \"dull, dirty or dangerous\" for humans. While they originated mostly in military applications, their use is rapidly expanding to commercial, scientific, recreational, agricultural, and other applications, such as policing, peacekeeping, and surveillance, product deliveries, aerial photography, agriculture, smuggling, and drone racing. TOP ENGINEERS workshops are designed to provide an insight view in the field of engineering. All the concepts will be explained in detail with the help of theory and with specially designed animations which would help the students to visualize things before actually practically working on it.</string>
+    <string name="python">Python is an interpreted high-level programming language for general-purpose programming. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales.In July 2018, Van Rossum stepped down as the leader in the language community after 30 years. TOP ENGINEERS workshops are designed to provide an insight view in the field of engineering.</string>
+    <string name="kerala_stand_up">1.Kerala StandUp</string>
+    <string name="QuadCopter">4.QuadCopter</string>
+    <string name="Python_workshop">2.Workshop On Python</string>
+    <string name="kerala">Kerala Stand Up</string>
+    <string name="robotics_workshop">3.Robotics Workshop</string>
+    <string name="pan_asian">Pan Asian – located at the luxurious and royal ITC Grand chola is a stylish and contemporary mezzanine restaurant. It features Cafe Edo for mouthwatering Sushi and Sashimi, Indian Ocean for the freshest fruit de mer, the bespoke Chef’s Studio and the celebratory Champagne Lounge. The food and ambience at Pan Asian is definitely not to be missed.</string>
+    <string name="PanAsian">1.PanAsian</string>
+    <string name="southern_spice">2.Southern Spice</string>
+    <string name="spice_description">Southern Spice, Taj Coromandel’s own premier dining destination, is enhanced by its royal ambience which integrates traditional Indian decorative elements with a contemporary vibe, portraying Tamil Nadu’s rich cultural heritage. It offers three distinctive specialty restaurants where Southern Spice is the traditional South Indian cuisine restaurant serving the cuisines of the four southern states of India. Experience an out of the world hospitality and exquisite range of food here.</string>
+    <string name="dakshin_description">For diners craving for authentic south Indian food with hints of Chettinad influence; Dakshin, at the Park Sheraton in Chennai is the ideal option. Diners can opt for the traditional thali or go the a la carte mode. It is complemented by the traditional ambiance, which features Tanjore paintings as well as live classical Carnatic Indian music.</string>
+    <string name="dakshin">3. Dakshin</string>
+    <string name="barbaque">4. Absolute Barbaque</string>
+    <string name="Barbaque_description">Are you a buffet enthusiast? Do you have a bottomless appetite for grilled food? Then Absolute Barbecue is your ultimate destination. The exotic grill and barbecue style food is their specialty. And if you are on plans to visit there, make sure you book the table 10 days prior to it. The ambience, service and their starters are something one cannot afford to miss.</string>
+    <string name="napier">1.NapierBridge</string>
+    <string name="marina">2.Marina Beach</string>
+    <string name="santhome_church1">3.Santhome Church</string>
+    <string name="fort">4.St.George Fort</string>
+    <string name="mgr">5.M.G.R Memorial</string>
+</resources>
