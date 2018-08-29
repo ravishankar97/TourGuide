@@ -10,8 +10,6 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 
 import java.util.ArrayList;
-
-
 public class RestaurantsFragment extends Fragment {
     @Nullable
     @Override
